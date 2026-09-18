@@ -10,7 +10,7 @@
 
 Official distribution repository for **Waslay** Android APK binaries.
 
-[**Download Latest APK**](https://github.com/11nawid/waslay-releases/releases/latest) • [**Official Website**](https://waslay.com)
+[**Download Latest APK**](https://github.com/11nawid/waslay-releases/releases/latest)
 
 </div>
 
